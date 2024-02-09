@@ -50,8 +50,7 @@ export default function Header() {
         </Link> 
         )
         
-      }
-               
+      }               
       </div>
       <NavbarCollapse>
             <Navbar.Link active={path === "/"} as={'div'}>
